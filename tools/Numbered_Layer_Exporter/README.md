@@ -25,7 +25,7 @@ Whether you need to export specific layers or organize your assets, this tool ai
 
 ## 📸 Preview
 
-<!-- Add screenshots or GIF demonstrations here -->
+![Captura de pantalla](/captura.png)
 
 *Coming soon.*
 
