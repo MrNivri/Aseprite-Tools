@@ -34,10 +34,12 @@ Whether you need to export specific layers or organize your assets, this tool ai
 ## 📦 Installation
 
 1. Download the desired version of the script.
-2. Locate your Aseprite scripts directory.
-3. Copy the `.lua` file into the scripts folder.
-4. Restart Aseprite if necessary.
-5. Find the script under `File > Scripts`.
+2. Locate the Aseprite menu: File/Scripts/Open Scripts Folder.
+3. Create a folder named `AsepriteTools`.
+4. Copy the `.lua` file to the new directory.
+5. Close the folder.
+6. Return to Aseprite and go to: File/Scripts/Rescan Scripts Folder.
+7. You will now see the updated list in the File/Scripts menu.
 
 ---
 
