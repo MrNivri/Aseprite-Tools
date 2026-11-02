@@ -16,7 +16,7 @@ Explore the collection and find the tools that fit your workflow.
 
 | Tool                                                  | Description                                           | Status            |
 | ----------------------------------------------------- | ----------------------------------------------------- | ----------------- |
-| [SEMTL Layer Exporter](./tools/semtl-layer-exporter/) | Export individual layers from your Aseprite projects. | 🚧 In Development |
+| [Numbered_Layer_Exporter](./tools/Numbered_Layer_Exporter/) | Export individual layers from your Aseprite projects. | 🚧 In Development |
 
 *More tools coming soon!*
 
