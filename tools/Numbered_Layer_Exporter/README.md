@@ -62,8 +62,8 @@ Whether you need to export specific layers or organize your assets, this tool ai
 
 | Version | Release Date | Status | Description |
 |---|---|---|---|
-| [v1.1.0](./Numbered_Layer_Exporter-v1.1.0.lua) | TBD | Sucess | Initial public release. |
-| [v1.0.0](./Numbered_Layer_Exporter-v1.0.0.lua) | TBD | Failure | Initial public release. |
+| [v1.1.0](./Numbered_Layer_Exporter-v1.1.0.lua) | 31-10-2026 | Sucess | Initial public release. |
+| [v1.0.0](./Numbered_Layer_Exporter-v1.0.0.lua) | 25-10-2026 | Failure | Initial public release. |
 
 <!--| v1.0.0 | Coming soon / Pending | Initial release |-->
 ---
