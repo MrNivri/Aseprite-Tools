@@ -1,5 +1,5 @@
 --[[
-SEMTL Layer Exporter v1.1
+SEMTL Layer Exporter v1.1.0
 For Aseprite v1.3.18.6 x64
 
 Exports each non-reference layer as an individual image.
