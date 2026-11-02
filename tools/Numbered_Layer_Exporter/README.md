@@ -4,7 +4,7 @@
 
 **Export individual layers from your Aseprite projects with ease.**
 
-SEMTL Layer Exporter is a custom Lua script designed to simplify the process of exporting individual layers from Aseprite projects.
+This tool is a custom Lua script designed to simplify the process of exporting individual layers from Aseprite projects.
 
 Whether you need to export specific layers or organize your assets, this tool aims to make your workflow easier and more efficient.
 
