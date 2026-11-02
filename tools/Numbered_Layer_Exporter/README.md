@@ -68,14 +68,6 @@ Whether you need to export specific layers or organize your assets, this tool ai
 <!--| v1.0.0 | Coming soon / Pending | Initial release |-->
 ---
 
-## 📝 Changelog
-
-### v1.0.0
-- Initial public release.
-- Details coming soon.
-
----
-
 ## ⚠️ Notes
 
 This tool is an independent community resource and is not officially affiliated with Aseprite.
