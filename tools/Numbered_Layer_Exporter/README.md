@@ -62,8 +62,8 @@ Whether you need to export specific layers or organize your assets, this tool ai
 
 | Version | Release Date | Status | Description |
 |---|---|---|---|
-| [v1.1.0](./Numbered_Layer_Exporter-v1.1.0.lua) | 31-10-2026 | Sucess | An updated version introducing frame selection, allowing users to export a specific animation frame or all frames while retaining the original layer export options. |
-| [v1.0.0](./Numbered_Layer_Exporter-v1.0.0.lua) | 25-10-2026 | Failure | An experimental Lua script that exports individual Aseprite layers with customizable folder organization, automatic numbering, multiple image formats, and scaling options. |
+| [v1.1.0](./Numbered_Layer_Exporter-v1.1.0.lua) | 31/10/2026 | Sucess | An updated version introducing frame selection, allowing users to export a specific animation frame or all frames while retaining the original layer export options. |
+| [v1.0.0](./Numbered_Layer_Exporter-v1.0.0.lua) | 25/10/2026 | Failure | An experimental Lua script that exports individual Aseprite layers with customizable folder organization, automatic numbering, multiple image formats, and scaling options. |
 
 <!--| v1.0.0 | Coming soon / Pending | Initial release |-->
 ---
